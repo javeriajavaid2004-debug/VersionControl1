@@ -25,4 +25,4 @@ The system shall continue operating despite temporary communication interruption
 The system shall require authenticated and role-authorized operators before accepting rover commands.
 The system should support communication with multiple rovers simultaneously.
 ### NFR-04: Communication
-The system shall operate with limited communication bandwidth and communication delays of several minutes.
+The system shall support at least 20 simultaneously connected rovers.
