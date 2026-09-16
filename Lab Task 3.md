@@ -23,6 +23,5 @@ All commands and critical rover events shall be recorded with a timestamp and op
 The system shall continue operating despite temporary communication interruptions.
 ### NFR-02: Performance
 The system shall require authenticated and role-authorized operators before accepting rover commands.
-The system should support communication with multiple rovers simultaneously.
 ### NFR-04: Communication
 The system shall support at least 20 simultaneously connected rovers.
